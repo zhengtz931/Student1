@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servlet>
+<servlet-name>StudentService</servlet-name>
+<servlet-class>Service/Service</servlet-class>
+<servlet-mapping>
+<servletname>StudentService</servletname>
+<url-pattern>/StudentService</url-pattern>
+</servlet-mapping>
+</servlet>
